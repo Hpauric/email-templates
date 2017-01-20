@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Hpauric/email-templates/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<p data-height="265" data-theme-id="0" data-slug-hash="VPKdwa" data-default-tab="result" data-user="PauricUCD" data-embed-version="2" data-pen-title="Grammarly email" class="codepen"> See the Pen <a href="https://codepen.io/PauricUCD/pen/VPKdwa/"> Grammarly email </a>  by Pauric Holleran ( <a href="http://codepen.io/PauricUCD">@PauricUCD</a> ) on <a href="http://codepen.io"> CodePen </a> . </p>
+<p data-height="500" data-theme-id="0" data-slug-hash="VPKdwa" data-default-tab="result" data-user="PauricUCD" data-embed-version="2" data-pen-title="Grammarly email" class="codepen"> See the Pen <a href="https://codepen.io/PauricUCD/pen/VPKdwa/"> Grammarly email </a>  by Pauric Holleran ( <a href="http://codepen.io/PauricUCD">@PauricUCD</a> ) on <a href="http://codepen.io"> CodePen </a> . </p>
 <script src="https://production-assets.codepen.io/assets/embed/ei.js"> </script>
 
 
